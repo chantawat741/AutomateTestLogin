@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "chromedriver": "^126.0.3",
+    "selenium-webdriver": "^4.22.0"
+  },
+  "name": "test_tester",
+  "version": "1.0.0",
+  "main": "loginTest.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "mocha": "^10.2.0"
+}
